@@ -2,13 +2,13 @@
 Calculadora de números inteiros que aceita como entrada a notação polonesa reversa, realizada como trabalho na disciplina de arquitetura de computadores.
 
 Os comandos das operações são o seguinte:
-'+' = Adição
-'-' = Subtração
-'*' = Multiplicação
-'/' = Divisão
-'p' = Potencialização 
-'f' = fatorial
-'s' = raiz quadrada
+'+' = Adição;
+'-' = Subtração;
+'*' = Multiplicação;
+'/' = Divisão;
+'p' = Potencialização;
+'f' = fatorial;
+'s' = raiz quadrada;
 
 Exemplos de notação convencional e polonesa reversa:
 
